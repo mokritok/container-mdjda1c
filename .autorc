@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "mokritok",
+  "repo": "container-mdjda1c",
+  "name": "mokritok",
+}
